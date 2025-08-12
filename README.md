@@ -98,17 +98,7 @@ lib/
 - **Secondary Text**: `#E2F4F6` (Light Blue)
 - **Error Color**: `#EE403D` (Red)
 
-## 📋 Features Breakdown
 
-### Contact Model
-```dart
-class Contact {
-  final String name;
-  final String email;
-  final String phone;
-  final String imagePath;
-}
-```
 
 ### Form Validation
 - Name: Required field
